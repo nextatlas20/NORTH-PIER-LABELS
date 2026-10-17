@@ -1,0 +1,5 @@
+product_id,product_name,recipe_code,declaration_codes,declaration_labels
+P-101,Harbor Rye,RC-RYE,A01|A05,Milk|Wheat
+P-102,Cocoa Cloud,RC-COCOA,A04,Soy
+P-104,Plain Oat,RC-OAT,NONE,NONE
+P-105,Night Biscuit,RC-NIGHT,A02|A03,Egg|Peanut

@@ -1,0 +1,7 @@
+allergen_code,label,display_order,active_product_count,active_product_ids
+A01,Milk,10,1,P-101
+A02,Egg,20,1,P-105
+A03,Peanut,30,1,P-105
+A04,Soy,40,1,P-102
+A05,Wheat,50,1,P-101
+A06,Tree nuts,60,0,NONE
