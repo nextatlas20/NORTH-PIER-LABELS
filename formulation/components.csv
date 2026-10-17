@@ -1,0 +1,15 @@
+entry_id,recipe_code,ingredient,allergen_set
+E-001,RC-RYE,Rye flour,A05
+E-002,RC-RYE,Whey powder,A01
+E-003,RC-COCOA,Cocoa,NONE
+E-004,RC-COCOA,Soy lecithin,A04
+E-005,RC-ORCHARD,Dried apple,NONE
+E-006,RC-OAT,Rolled oats,NONE
+E-007,RC-NIGHT,Egg powder,A02
+E-008,RC-NIGHT,Peanut meal,A03
+E-009,RC-GHOST,Spice dust,NONE
+E-010,RC-RYE,Baker blend,A05|A01
+E-011,RC-OAT,Sea salt,NONE
+E-011,RC-OAT,Sunflower oil,NONE
+E-012,RC-COCOA,Cream flavor,A99
+E-013,RC-COCOA,Emulsifier,A04|A04

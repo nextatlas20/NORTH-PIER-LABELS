@@ -1,0 +1,6 @@
+product_id,product_name,recipe_code,release_state
+P-101,Harbor Rye,RC-RYE,ACTIVE
+P-102,Cocoa Cloud,RC-COCOA,ACTIVE
+P-103,Orchard Bar,RC-ORCHARD,HOLD
+P-104,Plain Oat,RC-OAT,ACTIVE
+P-105,Night Biscuit,RC-NIGHT,ACTIVE
